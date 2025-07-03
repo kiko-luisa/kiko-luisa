@@ -1,6 +1,6 @@
-@import url(<style>
+
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
-</style>
+
 :root {
     --cor-destaque: #cc65a8;
     --cor-gradiente-azul: linear-gradient(113deg, #0f94bd 0%, #82ccf1 44.96%, #6093c7 100%);
@@ -9,7 +9,10 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: Montserrat;
+    font-family: 'M PLUS Rounded 1c';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
 }
 
 body {
